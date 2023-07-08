@@ -1,0 +1,8 @@
+1. EventManagement Contract
+2. TodoList Contract
+3. Voting Smart Contract
+
+4. CrowdFunding Smart Contract
+5. Piggy Bank Smart Contract
+6. Auction Smart Contract
+7. Lottery Smart Contract
